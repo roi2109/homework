@@ -1,0 +1,6 @@
+.round {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-image: linear-gradient(to right, red, yellow);
+}
